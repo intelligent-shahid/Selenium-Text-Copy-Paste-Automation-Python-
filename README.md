@@ -1,6 +1,11 @@
 # 🚀 Selenium Text Copy-Paste Automation (Python)
 A simple Selenium automation project in Python that demonstrates copy-paste functionality on [text-compare.com](https://text-compare.com) using ActionChains and keyboard shortcuts (CTRL+A, CTRL+C, TAB, CTRL+V). Perfect for beginners to learn Selenium WebDriver and automation basics.
 
+[![Python](https://img.shields.io/badge/Python-3.x-blue)](https://www.python.org/)
+[![Selenium](https://img.shields.io/badge/Selenium-Automation-green)](https://www.selenium.dev/)
+[![License](https://img.shields.io/badge/License-MIT-yellow)](LICENSE)
+---
+
 ## 📂 Project Structure
 selenium-text-copy-paste/
 │-- text_copy_paste.py   # Main Python script
